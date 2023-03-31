@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.panel{
+    width: 60%;
+    margin:2% 20%;
+    display: flex;
+    justify-content: space-between;
+}
+.besli{ 
+    gap: 20px;
+    display: flex;
+    list-style: none;
+}
+.navbar{
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    margin-bottom: 50px;
+    background-image: url(http://images.assetsdelivery.com/compings_v2/mavoimage/mavoimage1601/mavoimage160100167.jpg);
+}
+.navbar ul li a{
+color: white;
+     text-decoration: none;
+
+}
+.asagi{
+    display: flex;
+    width: 30%;
+    justify-content: space-between;
+   
+}
